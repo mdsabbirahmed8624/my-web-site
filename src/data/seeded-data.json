@@ -1,0 +1,22 @@
+{
+  "admin": {
+    "email": "admin@example.com",
+    "password": "Admin12345!",
+    "role": "admin"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Sample Product",
+      "price": 11.99,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "name": "Another Product",
+      "price": 8.49,
+      "stock": 60
+    }
+  ],
+  "orders": []
+}
