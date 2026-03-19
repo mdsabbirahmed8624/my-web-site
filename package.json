@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "node --watch src/server.js",
     "start": "node src/server.js",
-    "seed": "node scripts/seed.js",
+    "seed": "node src/data/seed.js",
     "check": "node --check src/server.js",
     "smoke": "node scripts/smoke-test.js",
     "test": "npm run smoke"
